@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Agnes Olivia Ketaren 👋
+
+![Banner](img/github-header-banner.png)
 
 <!--
 **agnesolivia/agnesolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agnesolivia/agnesolivia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agnesolivia/agnesolivia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agnesolivia/agnesolivia/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/agnesolivia/agnesolivia/output/snake.svg" alt="Snake animation" />
+
+###
+
