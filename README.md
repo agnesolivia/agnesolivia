@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ms5hm2plggrwgrpej6a5rf2une&unique={true|1|on|yes})
+
