@@ -29,6 +29,13 @@
 
 ---
 
+### 💧Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,css,c,figma,flask,flutter,html,java,js,php,py,mysql,selenium,tailwind" />
+  </a>
+</p>
+
 ### 💧What I Do
 
  -  Design user-centered digital experiences
@@ -38,6 +45,7 @@
 ---
 
 ## 💧Featured Projects
+
 | Icon | Project | Description | Tech Stack |
 |------|---------|------------|------------|
 | <img src="img/logo (2).png" width="60"/> | **RentalPartner** | Car rental management system with booking flow, user & owner dashboard | Laravel, Tailwind CSS |
@@ -56,6 +64,7 @@
 ---
 
 ### 💧Github Analytics
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=agnesolivia&theme=tokyonight" alt="GitHub Streak" />
 </p>
