@@ -21,8 +21,8 @@
 ![Banner](img/Banner.png)
 
 ###  About Me
->[!NOTE]
->A UI/UX enthusiast and developer who enjoys turning ideas into intuitive and functional digital products. I design user-centered interfaces and bring them to life through modern web and mobile technologies. Passionate about crafting seamless experiences, I continuously explore better ways to combine design thinking with scalable development.
+> [!NOTE]
+> A UI/UX enthusiast and developer who enjoys turning ideas into intuitive and functional digital products. I design user-centered interfaces and bring them to life through modern web and mobile technologies. Passionate about crafting seamless experiences, I continuously explore better ways to combine design thinking with scalable development.
 
 ---
 
