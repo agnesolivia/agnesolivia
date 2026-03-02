@@ -1,9 +1,24 @@
 <div align="center">
   <h1>Hi, I'm Agnes</h1>
   <h3>UI/UX Designer crafting intuitive digital experiences</h3>
+  <a href="https://instagram.com/agnesktrn">
+  <img src="img/ig.png" width="30"/>
+  </a>
+  <a href="https://x.com/ungkafe">
+  <img src="img/x.png" width="30"/>
+  </a>
+  <a href="https://www.youtube.com/@agnesketaren1173">
+  <img src="img/yt.png" width="30"/>
+  </a>
+  <a href="https://instagram.com/username">
+  <img src="img/linkedin.png" width="30"/>
+  </a>
+
 </div>
 
+
 ---
+
 ![Banner](img/Banner.png)
 
 ###  About Me
