@@ -10,10 +10,9 @@
   <a href="https://www.youtube.com/@agnesketaren1173">
   <img src="img/yt.png" width="30"/>
   </a>
-  <a href="https://instagram.com/username">
+  <a href=https://www.linkedin.com/in/agnes-olivia-ketaren-4511a5315>
   <img src="img/linkedin.png" width="30"/>
   </a>
-
 </div>
 
 
@@ -23,19 +22,15 @@
 
 ###  About Me
 
-I'm a passionate UI/UX Designer
-
--  I design user-centered digital products  
--  Focused on usability, clarity & accessibility  
--  Currently exploring advanced prototyping & design systems  
+A UI/UX enthusiast and developer who enjoys turning ideas into intuitive and functional digital products. I design user-centered interfaces and bring them to life through modern web and mobile technologies. Passionate about crafting seamless experiences, I continuously explore better ways to combine design thinking with scalable development.
 
 ---
 
 ### What I Do
 
- •  Design user-centered digital experiences
- •  Transform complex ideas into intuitive interfaces
- •  Bridge design and development
+ -  Design user-centered digital experiences
+ -  Transform complex ideas into intuitive interfaces
+ -  Bridge design and development
 
 ---
 
