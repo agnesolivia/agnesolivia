@@ -63,7 +63,7 @@ I'm a passionate UI/UX Designer
 
 ###
 
-<img src="https://raw.githubusercontent.com/agnesolivia/agnesolivia/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/agnesolivia/agnesolivia/output/snake.svg" alt="Snake animation"/>
 
 ###
 
