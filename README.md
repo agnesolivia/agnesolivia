@@ -24,6 +24,16 @@ I'm a passionate UI/UX Designer
 
 ---
 
+## Featured Projects
+
+| Icon | Project | Description | Tech Stack |
+|------|---------|------------|------------|
+| <img src="img/logo (2).png" width="60"/> | **RentalPartner** | Car rental management system with booking flow, user & owner dashboard | Laravel, Tailwind CSS |
+| <img src="img/logo.png" width="40"/> | **Bookora** | Book discovery and search platform | Flask, HTML, Figma |
+| <img src="img/logo (1).png" width="40"/> | **PetPartner** | Mobile application for pet care services and needs | Flutter, Figma |
+| <img src="img/aims.png" width="40"/> | **AIMS** | Academic management system for tutoring center (IEC Jemadi) | Laravel, MySQL, Tailwind CSS, Figma |
+
+
 ### Fun Fact:
 
  •  I love cats
