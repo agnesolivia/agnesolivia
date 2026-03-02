@@ -55,13 +55,16 @@
 
 ---
 
-### 💧Fun Fact:
-<p align=center>
- <img src="img/cat.jpg" width="100"/>  <img src="img/coder.jpg" width="100"/> <img src="img/forget.jpg" width="100"/> 
+### 💧 Fun Fact:
+<p align="center">
+  <img src="img/cat.jpg" width="100"/> 
+  <img src="img/coder.jpg" width="100"/> 
+  <img src="img/forget.jpg" width="100"/> 
+  <br>
+  • I love cats <br>
+  • Once coded for an entire day non-stop <br>
+  • Surprisingly good at forgetting small things
 </p>
- •  I love cats
- •  Once coded for an entire day non-stop
- •  Surprisingly good at forgetting small things
 
 ---
 
