@@ -61,7 +61,11 @@ A UI/UX enthusiast and developer who enjoys turning ideas into intuitive and fun
 <img src="https://raw.githubusercontent.com/agnesolivia/agnesolivia/output/snake.svg" alt="Snake animation"/>
 
 ### Github Analytics
-![Statistik Agnes](https://github-readme-stats-rho-tawny-dduordbn28.vercel.app/api?username=agnesolivia&show_icons=true&theme=radium)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agnesolivia&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats-rho-tawny-dduordbn28.vercel.app/api/top-langs/?username=agnesolivia&layout=compact&theme=radium)
-
+<p align="center">
+    <img src="https://github-readme-stats-rho-tawny-dduordbn28.vercel.app/api/top-langs/?username=agnesolivia&layout=compact&theme=tokyonight" width="48%" />
+    <img src="https://github-readme-stats-rho-tawny-dduordbn28.vercel.app/api?username=agnesolivia&show_icons=true&theme=tokyonight" width="48%" />
+</p>
