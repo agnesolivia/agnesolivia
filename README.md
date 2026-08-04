@@ -6,10 +6,6 @@
   <img src="img/ig.png" width="30"/>
   </a>
 
-  <a href="https://www.youtube.com/@agnesketaren1173">
-  <img src="img/yt.png" width="30"/>
-  </a>
-
   <a href=https://www.linkedin.com/in/agnes-olivia-ketaren-4511a5315>
   <img src="img/linkedin.png" width="30"/>
   </a>
