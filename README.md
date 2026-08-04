@@ -6,10 +6,6 @@
   <img src="img/ig.png" width="30"/>
   </a>
 
-  <a href="https://x.com/ungkafe">
-  <img src="img/x.png" width="30"/>
-  </a>
-
   <a href="https://www.youtube.com/@agnesketaren1173">
   <img src="img/yt.png" width="30"/>
   </a>
